@@ -1,0 +1,11 @@
+{
+  "name": "weex-book",
+  "version": "1.0.0",
+  "description": "weex 实践总结",
+  "main": "index.js",
+  "author": "ngnice",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^0.14.10"
+  }
+}
